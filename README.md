@@ -1,5 +1,5 @@
 # 👋 Olá
-Meu nome é Rafael Germano, graduando em Analise e Desenvolvimento de Sistemas, na faculdade UNA, conclui também o curso de Desenvolvimento Web Full Stack, pela instituição Trybe.
+Meu nome é Rafael Germano, sou Desenvolvedor Web Full Stack, pela instituição Trybe e graduando em Analise e Desenvolvimento de Sistemas, na faculdade UNA.
 
 Professor de dança em transição de carreira, tentando usar as experiencias criativas para codar.
 
